@@ -1,6 +1,6 @@
-# CrickInformer
+# CrickScore
 
-CrickInformer is a web application that provides real-time live cricket scores, match history, and a point table for the ICC Cricket World Cup 2023. Stay updated with the latest cricketing action!
+CrickScore is a web application that provides real-time live cricket scores, match history, and a point table for the ICC Cricket World Cup 2023. Stay updated with the latest cricketing action!
 
 ## Features
 
