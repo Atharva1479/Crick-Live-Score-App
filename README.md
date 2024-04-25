@@ -1,12 +1,12 @@
 # CrickScore
 
-CrickScore is a web application that provides real-time live cricket scores, match history, and a point table for the ICC Cricket World Cup 2023. Stay updated with the latest cricketing action!
+CrickScore is a web application that provides real-time live cricket scores, match history, and a point table for the IPL 2014. Stay updated with the latest cricketing action!
 
 ## Features
 
 - Real-time live cricket scores
 - Comprehensive match history
-- ICC Cricket World Cup 2023 point table
+- IPL 2024 point table
 - Responsive and modern user interface
 
 ## Technologies Used
