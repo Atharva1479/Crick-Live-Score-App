@@ -65,7 +65,7 @@ To get a local copy of the project up and running, follow these steps:
 ## Usage
 
 - Access the web application at [http://localhost:8080](http://localhost:8080).
-- Explore live cricket scores, match history, and the ICC Cricket World Cup 2023 point table.
+- Explore live cricket scores, match history, and the IPL 2024 point table.
 
 ## Contributing
 
