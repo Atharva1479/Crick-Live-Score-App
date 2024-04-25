@@ -32,8 +32,8 @@ public class CricketController {
     }
 
     @GetMapping("/point-table")
-    public ResponseEntity<?> getCWC2023PointTable() {
-        return new ResponseEntity<>(this.cricketService.getCWC2023PointTable(), HttpStatus.OK);
+    public ResponseEntity<?> getIPL2024PointTable() {
+        return new ResponseEntity<>(this.cricketService.getIPL2024PointTable(), HttpStatus.OK);
     }
 
     @GetMapping

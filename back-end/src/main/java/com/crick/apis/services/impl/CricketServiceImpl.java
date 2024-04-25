@@ -86,9 +86,9 @@ public class CricketServiceImpl implements CricketService {
     }
 
     @Override
-    public List<List<String>> getCWC2023PointTable() {
+    public List<List<String>> getIPL2024PointTable() {
         List<List<String>> pointTable = new ArrayList<>();
-        String tableURL = "https://www.cricbuzz.com/cricket-series/6732/icc-cricket-world-cup-2023/points-table";
+        String tableURL = "https://www.cricbuzz.com/cricket-series/7607/indian-premier-league-2024/points-table";
         try {
             Document document = Jsoup.connect(tableURL).get();
             Elements table = document.select("table.cb-srs-pnts");
